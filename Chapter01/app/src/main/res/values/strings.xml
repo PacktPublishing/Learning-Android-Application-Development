@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="app_flavor">No flavor specified</string>
+</resources>

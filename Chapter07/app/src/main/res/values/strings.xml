@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="checkbox1">Status Check 1</string>
+    <string name="checkbox2">Status Check 2</string>
+    <string name="checkbox1_property">com.packt.rrafols.example.checkbox_1</string>
+    <string name="checkbox2_property">com.packt.rrafols.example.checkbox_2</string>
+</resources>

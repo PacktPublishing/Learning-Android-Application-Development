@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculatorTestExample</string>
+    <string name="not_a_number">NaN</string>
+    <string name="invalid_username">Invalid username</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="incorrect_credentials">Incorrect username/password</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
+
+

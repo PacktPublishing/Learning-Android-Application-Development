@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1083782707064",
+    "firebase_url": "https://calculator-test-3521b.firebaseio.com",
+    "project_id": "calculator-test-3521b",
+    "storage_bucket": "calculator-test-3521b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083782707064:android:7393d6d26d058563",
+        "android_client_info": {
+          "package_name": "com.packt.rrafols.calculatortestexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083782707064-ap0q4ihkem1t35asfbhdnuf65rjrt7t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAWlbpZ4ovn4GmFx2CfWjKyOq7lAkeGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
