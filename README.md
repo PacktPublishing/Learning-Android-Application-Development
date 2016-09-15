@@ -3,6 +3,17 @@
 You can read more at [LearningAndroidApplicationDevelopment]
 (https://www.packtpub.com/application-development/learning-android-application-development?utm_source=Github&utm_medium=Repository&utm_campaign=9781785286117)
 
+## What you will learn
+
+* Get to know how to use popular open source libraries to reduce time to market and avoid re-inventing the wheel
+* Automate your application’s testing phase to avoid last minute crashes
+* Use dependency management to properly keep dependencies and updates under control
+* Efficiently show huge amounts of items in a list
+* Forget about memory and speed concerns
+* Publish and monetize your Android applications on Google Play
+* Persist your application data so it can continue working in offline mode 
+* Don’t let the UX break because of network issues
+
 ## Instructions
 
 The Code folder contains the code samples used in this book.
