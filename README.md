@@ -1,4 +1,4 @@
-# LearningAndroidApplicationDevelopment
+# Learning Android Application Development
 
 This is the code repository for [Learning Android Application Development](https://www.packtpub.com/application-development/learning-android-application-development?utm_source=Github&utm_medium=Repository&utm_campaign=9781785286117), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
