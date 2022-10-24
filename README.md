@@ -43,3 +43,7 @@ buildscript {
 * [Android 3.0 Application Development Cookbook](https://www.packtpub.com/application-development/android-30-application-development-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781849512947)
 * [Android 4: New Features for Application Development](https://www.packtpub.com/application-development/android-4-new-features-application-development?utm_source=Github&utm_medium=Repository&utm_campaign=9781849519526)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785286117">https://packt.link/free-ebook/9781785286117 </a> </p>
